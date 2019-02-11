@@ -1,0 +1,13 @@
+{
+  "name": "docker-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jonas Pohren <jonaspohren@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
