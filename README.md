@@ -1,8 +1,8 @@
 # Docker Example
 
 ```
-docker build -t DOCKER_ID/app .
-docker run -p 3000:3000 DOCKER_ID/app
+docker build -t app .
+docker run -p 3000:3000 app
 ```
 
 http://localhost:3000
